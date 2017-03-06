@@ -1,0 +1,23 @@
+{
+  "name": "timestamps-micro",
+  "version": "0.0.1",
+  "description": "nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsprice/timestamps-micro.git"
+  },
+  "author": "Ryan S. Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsprice/timestamps-micro/issues"
+  },
+  "homepage": "https://github.com/rsprice/timestamps-micro#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0"
+  }
+}
